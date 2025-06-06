@@ -4,7 +4,7 @@
 // Copyright: (C) Gilles Muller, Julia Lawall, EMN, INRIA, DIKU.  GPLv2.
 // URL: https://coccinelle.gitlabpages.inria.fr/website/rules/continue.html
 // Options:
-
+ 
 @@
 @@
 
