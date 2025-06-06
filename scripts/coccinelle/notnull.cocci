@@ -5,7 +5,7 @@
 // Copyright: (C) Gilles Muller, Julia Lawall, EMN, INRIA, DIKU.  GPLv2.
 // URL: https://coccinelle.gitlabpages.inria.fr/website/rules/notnull.html
 // Options:
-
+ 
 @r exists@
 local idexpression x;
 expression E;
