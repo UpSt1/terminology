@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/zsh 
 # Converts *color lines to edje color classes
 # grep \*color ~/.Xresources | ./colorparser.zsh
 while read line
