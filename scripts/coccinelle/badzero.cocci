@@ -1,5 +1,5 @@
 // A pointer should not be compared to zero
-//
+// 
 // Confidence: High
 // Copyright: (C) Gilles Muller, Julia Lawall, EMN, INRIA, DIKU.  GPLv2.
 // URL: https://coccinelle.gitlabpages.inria.fr/website/rules/badzero.html
