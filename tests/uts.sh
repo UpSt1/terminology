@@ -18,3 +18,4 @@ printf '\033[ d'
 # remove tab on col 3
 printf '\033[3 d'
 printf '\n#\t#\t#\t#\t#\t#\t#\t#\t#\t#\t#'
+
