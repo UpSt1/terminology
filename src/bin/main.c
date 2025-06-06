@@ -2,7 +2,7 @@
 
 #ifdef HAVE_PO
 #include <locale.h>
-#endif
+#endif 
 
 #include <Ecore_Getopt.h>
 #include <Elementary.h>
