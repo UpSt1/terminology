@@ -8,3 +8,4 @@ This is done by using `tools/unicode_dbl_width.py`.
 2. Extract it
 3. Run `tools/unicode_dbl_width.py ucd.all.flat.xml src/bin/termptydbl.h src/bin/termptydbl.c`_
 4. Commit the files modified
+
