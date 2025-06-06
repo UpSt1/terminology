@@ -1,6 +1,6 @@
 # This cleans up all kind of different spellings, typos and different email
 # addresses for commit authors. It makes git shortlog statistics more meaningful.
-#
+# 
 # More people can be added following this scheme:
 # Proper Name <proper@email.xx> Commit Name <commit@email.xx>
 #
