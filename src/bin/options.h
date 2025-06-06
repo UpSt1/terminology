@@ -1,4 +1,4 @@
-#ifndef TERMINOLOGY_TERMINOLOGY_OPTIONS_H_
+#ifndef  TERMINOLOGY_TERMINOLOGY_OPTIONS_H_
 #define TERMINOLOGY_TERMINOLOGY_OPTIONS_H_ 1
 
 void options_show(Evas_Object *win, Evas_Object *base, Evas_Object *bg,
