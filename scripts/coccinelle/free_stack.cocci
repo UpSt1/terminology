@@ -6,7 +6,7 @@ expression E;
 @@
 (
 (
-T K;
+T K; 
 |
 T K = E;
 )
