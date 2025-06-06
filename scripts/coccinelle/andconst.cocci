@@ -6,7 +6,7 @@
 // Options:
 
 @@ identifier i; constant C1,C2; @@
-(
+( 
 - i == C1 && i == C2
 + i == C1 || i == C2
 )
