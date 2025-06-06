@@ -40,4 +40,4 @@ printf '\033[?6h'
 printf '\033[4;4HC\033[6GC'
 
 # From inside to outside
-printf '\033[5;2HD\033[40GD'
+printf '\033[5;2HD\033[40GD' 
