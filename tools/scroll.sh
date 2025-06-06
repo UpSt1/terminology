@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # fill space with E
 printf '\033#8'
