@@ -6,7 +6,7 @@
 #   test use of that color on all nine background colors (default + 8
 #   escapes).
 #
-
+ 
 T='gYw'   # The test text
 T='g█$'   # The test text
 
