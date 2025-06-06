@@ -1,5 +1,5 @@
 #!/bin/sh
-set -eu
+set -eu 
 
 DIR="src/bin"
 COCCI_FILES="
