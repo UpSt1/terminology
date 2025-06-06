@@ -1,5 +1,5 @@
 // DIV_ROUND_UP
-@@
+@@ 
 expression n, d;
 @@
 (
