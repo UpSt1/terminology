@@ -4,7 +4,7 @@ expression l;
 identifier LOCK =~ "^.*_lock$";
 identifier UN =~ "^.*_unlock$";
 @@
-
+ 
 LOCK(l);
 ... when != UN(l)
     when any
