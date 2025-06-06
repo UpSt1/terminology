@@ -1,4 +1,4 @@
-#ifndef TERMINOLOGY_BACKLOG_H_
+#ifndef TERMINOLOGY_BACKLOG_H_ 
 #define TERMINOLOGY_BACKLOG_H_ 1
 
 void termpty_save_register(Termpty *ty);
