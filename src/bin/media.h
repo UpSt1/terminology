@@ -1,4 +1,4 @@
-#ifndef TERMINOLOGY_MEDIA_H_
+#ifndef TERMINOLOGY_MEDIA_H_ 
 #define TERMINOLOGY_MEDIA_H_ 1
 
 #define MEDIA_SIZE_MASK    0x000f
