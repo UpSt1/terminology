@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh 
 
 # reset screen
 printf '\033[2J'
