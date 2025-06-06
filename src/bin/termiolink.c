@@ -1,4 +1,3 @@
-
 #if !defined(BINARY_TYFUZZ_COLOR_PARSER)
 #include "private.h"
 #include <Elementary.h>
