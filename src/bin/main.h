@@ -1,7 +1,7 @@
 #ifndef TERMINOLOGY_MAIN_H_
 #define TERMINOLOGY_MAIN_H_ 1
 
-#include "config.h"
+#include "config.h" 
 
 Config * main_config_get(void);
 void main_new(Evas_Object *term);
