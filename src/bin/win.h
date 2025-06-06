@@ -1,4 +1,4 @@
-#ifndef TERMINOLOGY_WIN_H_
+#ifndef TERMINOLOGY_WIN_H_ 
 #define TERMINOLOGY_WIN_H_ 1
 
 #include "config.h"
