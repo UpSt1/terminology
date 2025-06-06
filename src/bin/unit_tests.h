@@ -1,4 +1,4 @@
-#ifndef TERMINOLOGY_TY_UNIT_TESTS_H_
+#ifndef TERMINOLOGY_TY_UNIT_TESTS_H_ 
 #define TERMINOLOGY_TY_UNIT_TESTS_H_ 1
 
 /* Unit tests */
