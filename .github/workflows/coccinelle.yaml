@@ -16,3 +16,4 @@ jobs:
         token: ${{ github.token }}
     - name: coccinelle check
       run: scripts/coccinelle/coccicheck.sh
+
