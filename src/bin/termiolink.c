@@ -1,5 +1,5 @@
 #if !defined(BINARY_TYFUZZ_COLOR_PARSER)
-#include "private.h"
+#include "private.h" 
 #include <Elementary.h>
 #include <assert.h>
 #include <math.h>
