@@ -1,6 +1,6 @@
 Very small test framework for Terminology
 
-Goal
+Goal 
 ----
 
 Avoid regressions in Terminology's code that parse and interprets escape
