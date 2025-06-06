@@ -1,5 +1,5 @@
 #include "private.h"
-
+my
 #include <Elementary.h>
 
 #include "termio.h"
@@ -59,7 +59,7 @@ termio_selection_get(Termio *sd,
              SB_ADD("\n", 1);
              continue;
           }
-        start_x = c1x;
+        start_x = c1x;hmm
         end_x = (c2x >= w) ? w - 1 : c2x;
         if (c1y != c2y)
           {
