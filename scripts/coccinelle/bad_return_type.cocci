@@ -1,4 +1,4 @@
-@@
+@@ 
 type T, B != T;
 identifier func, i;
 expression E;
