@@ -1,6 +1,6 @@
 #ifndef TERMINOLOGY_TYTEST_COMMON_H_
 #define TERMINOLOGY_TYTEST_COMMON_H_ 1
-
+ 
 #define TY_H 24
 #define TY_W 80
 #define TY_CH_H 15
