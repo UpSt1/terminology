@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 
 """
 Generate src/bin/termptydbl.{c,h} from unicode files
